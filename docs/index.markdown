@@ -9,21 +9,21 @@ title: Pedram Hosseini
 permalink: /
 ---
 
-Pedram Hosseini's homepage (learning [Jekyll](https://jekyllrb.com/) and building...)
+**Pedram Hosseini's homepage** (building with [Jekyll](https://jekyllrb.com/)...)
 
 **About me**
 
-I’m currently a Venture Fellow at Camford Capital where I work with an interdisciplinary team on several internal
-innovative initiatives related to Artificial Intelligence (AI) and Natural Language Processing (NLP) in the biomedical,
-clinical, and biological domains.
+I’m currently a Venture Fellow at [Camford Capital](https://www.camford.vc/) where I work with an interdisciplinary team
+on several internal innovative initiatives related to Artificial Intelligence (AI) and Natural Language Processing/Understanding (NLP/NLU)
+in the biomedical, clinical, and biological domains.
 
 Prior to joining Camford Capital, I received my Ph.D. in Computer Science at The George Washington University (GWU)
 under the supervision of [Dr. Mona Diab](https://lti.cs.cmu.edu/people/222228496/mona-diab)
-and [Dr. David Broniatowski](https://www.seas.gwu.edu/david-broniatowski). My main areas of research were AI and NLP,
-and my dissertation was on “Advancing Identification of Causal Relations in Natural Language”. I worked on several
-projects including building large language models with commonsense reasoning and causal relation understanding
-capabilities, and analytical frameworks for understanding how individuals make various decisions on social media,
-including the spread of disinformation and misinformation.
+and [Dr. David Broniatowski](https://www.seas.gwu.edu/david-broniatowski). My dissertation was on “Advancing
+Identification of Causal Relations in Natural Language”. I worked on several projects including building large language
+models with commonsense reasoning and causal relation understanding capabilities, and analytical frameworks for
+understanding how individuals make various decisions on social media, including the spread of disinformation and
+misinformation.
 
-[X (Twitter)](https://twitter.com/PedramHosseini)
-[LinkedIn](https://www.linkedin.com/in/pedramhosseini/)
+* [X (Twitter)](https://twitter.com/PedramHosseini)
+* [LinkedIn](https://www.linkedin.com/in/pedramhosseini/)
