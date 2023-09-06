@@ -7,4 +7,4 @@
 layout: home
 ---
 
-Pedram Hosseini's homepage
+Pedram Hosseini
