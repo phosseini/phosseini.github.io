@@ -9,4 +9,16 @@ title: Pedram Hosseini
 permalink: /
 ---
 
-Pedram Hosseini
+Pedram Hosseini's homepage (learning Jekyll and building...)
+
+I’m currently a Venture Fellow at Camford Capital where I work with an interdisciplinary team on several internal
+innovative initiatives related to Artificial Intelligence (AI) and Natural Language Processing (NLP) in the biomedical,
+clinical, and biological domains.
+
+Prior to joining Camford Capital, I received my Ph.D. in Computer Science at The George Washington University (GWU)
+under the supervision of [Dr. Mona Diab](https://www.linkedin.com/in/mona-diab-55946614/)
+and [Dr. David Broniatowski](https://www.seas.gwu.edu/david-broniatowski). My main areas of research were AI and NLP,
+and my dissertation was on “Advancing Identification of Causal Relations in Natural Language”. I worked on several
+projects including building large language models with commonsense reasoning and causal relation understanding
+capabilities, and analytical frameworks for understanding how individuals make various decisions on social media,
+including the spread of disinformation and misinformation.
