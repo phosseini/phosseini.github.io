@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2023-09-05 23:37:47 -0700
 categories: jekyll update
-visible: 1
+hidden: true
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You
 can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web
