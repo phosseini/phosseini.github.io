@@ -9,8 +9,6 @@ title: Pedram Hosseini
 permalink: /
 ---
 
-**Pedram Hosseini's homepage** (building with [Jekyll](https://jekyllrb.com/)...)
-
 **About me**
 
 I’m currently a Venture Fellow at [Camford Capital](https://www.camford.vc/) where I work with an interdisciplinary team
