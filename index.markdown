@@ -9,6 +9,8 @@ title: Pedram Hosseini
 permalink: /
 ---
 
+<img src="{{ '/assets/pedram.jpg' | relative_url }}" alt="Description of the image" class="resized-image">
+
 **Pedram Hosseini's homepage** (building with [Jekyll](https://jekyllrb.com/)...)
 
 **About me**
