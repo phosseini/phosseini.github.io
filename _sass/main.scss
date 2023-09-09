@@ -1,9 +1,9 @@
 .center-image {
   display: block;
-  margin: 1em auto;
-  box-shadow: 50px 50px 113px #defeec inset, -50px -50px 110px #defeec inset;
-  background-size: contain;
-  background-repeat: no-repeat;
+  margin: auto;
+  border-radius: 25px;
+  border: 2px solid;
+  padding: 20px;
   width: 25%;
   height: 25%;
 }
