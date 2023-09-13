@@ -20,7 +20,7 @@ Prior to joining Camford Capital, I received my Ph.D. in Computer Science at The
 under the supervision of [Dr. Mona Diab](https://lti.cs.cmu.edu/people/222228496/mona-diab)
 and [Dr. David Broniatowski](https://www.seas.gwu.edu/david-broniatowski). My dissertation was on “Advancing
 Identification of Causal Relations in Natural Language”. I worked on several projects including building large language
-models with commonsense reasoning and causal relation understanding capabilities, and analytical frameworks for
+models (LLMs) with commonsense reasoning and causal relation understanding capabilities, and analytical frameworks for
 understanding how individuals make various decisions on social media, including the spread of disinformation and
 misinformation.
 
