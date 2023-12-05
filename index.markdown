@@ -28,4 +28,4 @@ misinformation.
 * [LinkedIn](https://www.linkedin.com/in/pedramhosseini/)
 * [GitHub](https://github.com/phosseini)
 
-:round_pushpin: San Francisco Bay Area
+📍 San Francisco Bay Area
