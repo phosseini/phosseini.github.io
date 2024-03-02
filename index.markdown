@@ -14,7 +14,7 @@ permalink: /
 
 I’m currently a Venture Fellow / Scientist-in-Residence at [Camford Capital](https://www.camford.vc/) where I work with an interdisciplinary team
 on several internal innovative initiatives related to Artificial Intelligence (AI) and Natural Language Processing/Understanding (NLP/NLU)
-in the biomedical, clinical, and biological domains.
+in the biomedical, clinical, and biological domains. I'm also the AI Lead at [Lavita AI](https://www.lavita.ai/).
 
 Prior to joining Camford Capital, I received my Ph.D. in Computer Science at The George Washington University (GWU)
 under the supervision of [Dr. Mona Diab](https://lti.cs.cmu.edu/people/222228496/mona-diab)
