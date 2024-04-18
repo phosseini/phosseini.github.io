@@ -17,7 +17,7 @@ on several internal innovative initiatives related to Artificial Intelligence (A
 in the biomedical, clinical, and biological domains. I'm also the AI Lead at [Lavita AI](https://www.lavita.ai/).
 
 Prior to joining Camford Capital, I received my Ph.D. in Computer Science at The George Washington University (GWU)
-under the supervision of [Dr. Mona Diab](https://lti.cs.cmu.edu/people/222228496/mona-diab)
+under the supervision of [Dr. Mona Diab](https://lti.cmu.edu/people/faculty/diab-mona.html)
 and [Dr. David Broniatowski](https://www.seas.gwu.edu/david-broniatowski). My dissertation was on “Advancing
 Identification of Causal Relations in Natural Language”. I worked on several projects including building large language
 models (LLMs) with commonsense reasoning and causal relation understanding capabilities, and analytical frameworks for
