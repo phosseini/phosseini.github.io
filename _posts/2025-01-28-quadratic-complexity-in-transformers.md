@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Understanding Quadratic Complexity in Transformers"
+date: 2025-01-29
+---
+
 ### Linguistic and Mathematical Definitions of `Quadratic`
 
 The term **"quadratic"** comes from the Latin word **"quadratus"**, meaning **square**.
