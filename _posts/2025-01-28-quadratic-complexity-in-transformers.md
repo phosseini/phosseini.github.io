@@ -2,6 +2,7 @@
 layout: post
 title: "Understanding Quadratic Complexity in Transformers"
 date: 2025-01-29
+permalink: /transformers/quadratic-complexity/
 ---
 
 ### Linguistic and Mathematical Definitions of `Quadratic`
