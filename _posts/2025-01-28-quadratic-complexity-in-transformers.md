@@ -11,7 +11,7 @@ Before explaining why Transformers are quadratic, let's first understand what qu
   
 Mathematically, a function is **quadratic** if its growth rate is proportional to the square of the input size:  
   
-$$ y = ax^2 + bx + c $$  
+$$y = ax^2 + bx + c$$  
   
 where $x$ is the input, and $a$, $b$, and $c$ are constants.  For large $x$, the $x^2$ term dominates, making the function **quadratic**.  If a process has **quadratic complexity** meaning $O(n^2)$, doubling the input size $n$ makes the output (or runtime) grow approximately **4 times** (If $T(n) = k. n ^ 2$, then $T(2n) = 4 * T(n)$
 
