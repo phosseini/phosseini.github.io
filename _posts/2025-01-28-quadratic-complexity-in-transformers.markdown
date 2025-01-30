@@ -35,11 +35,11 @@ $V$ is the value matrix
 $d_k$ is the dimension of the keys  
 $\sqrt{d_k}$ is the scaling factor
 
-So, for a sequence of $n$ tokens, self-attention calculates attention scores between **all token** pairs ($$Q \cdot
-K^T$$). As a result, the attention matrix has $n \times n$ elements and computationally this requires **quadratic
-computation**:  $$ O(n^2) $$. And that is why we say Transformer is a quadratic architecture. As we change the input
-size $n$ to largerand lrager numbers, we will see how that is going to increase computation quadratically. For instance,
-doubling the sequence length $ n $ makes computation *4x slower*: If $T(n) = k \cdot n ^ 2$, then $T(2n) = 4 * T(n)$
+So, for a sequence of $n$ tokens, self-attention calculates attention scores between **all token** pairs ($Q \cdot K^T$)
+. As a result, the attention matrix has $n \times n = n^2$ elements and computationally this requires **quadratic
+computation**: $O(n^2)$. And that is why we say Transformer is a quadratic architecture. As we change the input size $n$
+to larger and larger numbers, we will see how that is going to increase computation quadratically. For instance,
+doubling the sequence length $n$ makes computation *4x slower*: If $T(n) = k \cdot n ^ 2$, then $T(2n) = 4 * T(n)$
 
 ### Code Example: Quadratic Growth
 
