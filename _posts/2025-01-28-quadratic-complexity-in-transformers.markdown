@@ -5,8 +5,6 @@ date: 2025-01-29
 permalink: /transformers/quadratic-complexity/
 ---
 
-### Linguistic and Mathematical Definitions of Quadratic
-
 Before explaining why Transformers are quadratic, let's first understand what the word "quadratic" means. From a **linguistic** perspective, the term **quadratic** comes from the Latin word **quadratus**, meaning **square**. But what does the power of two have to do with squares? Well, the name "quadratic" comes from **geometry**, not arithmetic. A square has four sides, and the area of a square with side length $x$ is:
 
 $$x \times x = x^2$$
