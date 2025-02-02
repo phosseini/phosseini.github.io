@@ -63,7 +63,6 @@ There has been an ongoing effort to address this limitation of Transformers. Som
 The following code demonstrates **quadratic complexity** in self-attention.  
 
 ```python
-
 import numpy as np
 import time
 import matplotlib.pyplot as plt    
