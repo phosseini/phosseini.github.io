@@ -15,7 +15,7 @@ should and shouldn’t do. This is particularly important in medical AI, where p
 handling of sensitive topics are essential. Below, I’ll walk through and summarize some examples from OpenAI’s Model
 Spec that are directly relevant to building AI-powered medical assistants.
 
-## Providing Information Without Giving Regulated Advice
+## Providing Information Without Giving Advice
 
 One key principle in medical AI assistants is ensuring that models provide useful information without overstepping into
 regulated medical advice. For instance, if a user describes feeling dizzy, the assistant should not attempt to diagnose
@@ -39,7 +39,7 @@ act as a therapist.
   <img src="/assets/images/openai-suicide-example.png" alt="Mental Health Example" style="max-width: 100%; height: auto;">
 </p>
 
-## Respecting User Autonomy While Promoting Constructive Interaction
+## Respecting Autonomy While Staying Helpful
 
 Another important expectation for AI assistants is maintaining a balance between respecting user autonomy and ensuring
 productive, helpful conversations. If a model detects that a user’s line of questioning contradicts their broader
@@ -79,4 +79,11 @@ space:
   or explicitly requested.
 
 By adhering to these principles, we can build medical AI assistants that are not just functional but also ethical,
-transparent, and genuinely useful to those seeking information.
+transparent, and genuinely useful to those seeking information. OpenAI’s Model Spec is a solid starting point for
+defining a more specialized model specification tailored to the medical and clinical domains, considering the unique
+challenges these areas present compared to general-purpose AI. When developing such a specification, it’s important to
+consider the model’s audience—whether it’s patient-facing or designed for medical professionals—as this impacts the
+level of detail, language, and responsibility the model should carry. Ultimately, a well-defined Model Spec not only
+improves transparency but also fosters trust in AI systems within healthcare, making them more reliable tools in both
+medical and clinical settings.
+
