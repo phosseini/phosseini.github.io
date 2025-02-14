@@ -75,7 +75,7 @@ unnecessary exposure to distressing material while ensuring that users get the i
   Image source: <a href="https://model-spec.openai.com/2025-02-12.html" target="_blank" style="color: gray;">OpenAI Model Spec</a>
 </p>
 
-## Final Thoughts
+## Key Takeaways
 
 While many principles in the Model Spec apply across all domains—for example, maximizing helpfulness or minimizing
 harm—medical AI comes with additional responsibilities. Here are a few takeaways for designing AI assistants in this
