@@ -7,9 +7,9 @@ permalink: /openai-model-spec-medical/
 
 With [OpenAI’s release of Model Spec](https://model-spec.openai.com/2025-02-12.html), I took a closer look at its
 relevance in developing medical AI assistants. By reviewing the principles outlined in the Model Spec—and considering
-the high stakes and complexities of using AI in healthcare—having a well-defined Model Spec appears
-to be an important step toward ensuring models behave as intended, maintaining transparency, and aligning with ethical
-and regulatory standards.
+the high stakes and complexities of using AI in healthcare—having a well-defined Model Spec appears to be an important
+step toward ensuring models behave as intended, maintaining transparency, and aligning with ethical and regulatory
+standards.
 
 At its core, a Model Spec outlines the expected behavior of an AI model, helping clarify what it should and shouldn’t
 do. This is particularly important in medical AI, where precision, reliability, and responsible handling of sensitive
