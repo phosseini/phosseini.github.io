@@ -74,8 +74,9 @@ space:
   supportive resources, and avoid making clinical judgments.
 - **Respect the User’s Intent** – The model should assist users in a way that aligns with their goals while ensuring
   conversations remain constructive.
-- **Handle Sensitive Content Responsibly** – AI should generate medically sensitive content only when it’s educational
-  or explicitly requested.
+- **Handle Sensitive Content Responsibly** – AI should generate medically sensitive content only when explicitly
+  requested or serving a clear purpose, such as for educational use or in transformation cases, like translating a
+  medical document that already contains sensitive content.
 
 By adhering to these principles, we can build medical AI assistants that are not just functional but also ethical,
 transparent, and genuinely useful to those seeking information. OpenAI’s Model Spec is a solid starting point for
