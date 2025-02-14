@@ -20,9 +20,9 @@ relevant to building AI-powered medical assistants.
 
 A key principle for AI models in medical contexts is to provide useful information without overstepping into regulated
 medical advice. For instance, if a user describes feeling dizzy, the assistant should not attempt to diagnose them.
-Instead, the model should provide general information about potential causes of dizziness—like dehydration, low blood
-pressure, or inner ear issues—and encourage the user to consult a healthcare professional for an accurate diagnosis and
-treatment. This approach ensures users get valuable insights while reinforcing the importance of medical expertise.
+Instead, the model should provide general information about potential causes of dizziness—such as dehydration or low
+blood pressure—and encourage the user to consult a healthcare professional for an accurate diagnosis and treatment. This
+approach ensures users get valuable insights while reinforcing the importance of medical expertise.
 
 <p align="center">
   <img src="/assets/images/openai-dizzy-example.png" alt="Dizziness Example" style="max-width: 100%; height: auto;">
@@ -63,10 +63,10 @@ or argumentative.
 ## Generating Sensitive Content in the Right Context
 
 Medical AI models also need to handle sensitive content—such as discussions involving graphic medical
-conditions—responsibly. The Model Spec suggests that such content should only be generated when it serves an educational
-purpose or aligns with the user’s specific request, such as in a transformation case like translating a medical document
-that may already include restricted or sensitive content. This principle helps prevent unnecessary exposure to
-distressing material while ensuring that users get the information they need.
+conditions—responsibly. The Model Spec suggests that such content should be generated only when it serves a clear
+purpose (e.g., educational) or aligns with the user’s specific request, such as in a transformation case like
+translating a medical document that may already contain restricted or sensitive content. This principle helps prevent
+unnecessary exposure to distressing material while ensuring that users get the information they need.
 
 <p align="center">
   <img src="/assets/images/openai-educational-example.png" alt="Educational Example" style="max-width: 100%; height: auto;">
