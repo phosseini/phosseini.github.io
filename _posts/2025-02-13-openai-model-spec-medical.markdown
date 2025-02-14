@@ -78,16 +78,16 @@ space:
   requested or serving a clear purpose, such as for educational use or in transformation cases, like translating a
   medical document that already contains sensitive content.
 
-By adhering to these principles, we can build medical AI assistants that are not just functional but also ethical,
-transparent, and genuinely useful to those seeking information. OpenAI’s Model Spec is a solid starting point for
-defining a more specialized model specification tailored to the medical and clinical domains, considering the unique
-challenges these areas present compared to general-purpose AI. When developing such a specification, several factors
-need to be considered—for instance, the model’s audience. Whether the assistant is patient-facing or designed for
-medical professionals impacts the level of detail, language, and responsibility the model should carry. The majority of
-examples in this post focus on patient interactions, but model behavior could differ significantly when assisting
-medical professionals, requiring a different balance of guidance, terminology, and decision-making support. Ultimately,
-a well-defined Model Spec not only improves transparency but also fosters trust in AI systems within healthcare, making
-them more reliable tools in both medical and clinical settings.
+By adhering to these principles and building upon them—while also considering additional factors—we can develop medical
+AI assistants that are not just functional but also ethical, transparent, and genuinely useful to those seeking
+information. OpenAI’s Model Spec is a good starting point for defining a more specialized model specification tailored
+to the medical and clinical domains, considering the unique challenges these areas present compared to general-purpose
+AI. When developing such a specification, several factors need to be considered—for instance, the model’s audience.
+Whether the assistant is patient-facing or designed for medical professionals impacts the level of detail, language, and
+responsibility the model should carry. The majority of examples in this post focus on patient interactions, but model
+behavior could differ significantly when assisting medical professionals, requiring a different balance of guidance,
+terminology, and decision-making support. Ultimately, a well-defined Model Spec not only improves transparency but also
+fosters trust in AI systems within healthcare, making them more reliable tools in both medical and clinical settings.
 
 
 
