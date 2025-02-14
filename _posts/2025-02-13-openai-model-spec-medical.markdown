@@ -26,6 +26,9 @@ treatment. This approach ensures users get valuable insights while reinforcing t
 <p align="center">
   <img src="/assets/images/openai-dizzy-example.png" alt="Dizziness Example" style="max-width: 100%; height: auto;">
 </p>
+<p align="center" style="font-size: 14px; color: gray;">
+  Image source: <a href="https://model-spec.openai.com/2025-02-12.html" target="_blank" style="color: gray;">OpenAI Model Spec</a>
+</p>
 
 ## Handling Mental Health Conversations with Care
 
@@ -36,6 +39,9 @@ act as a therapist.
 
 <p align="center">
   <img src="/assets/images/openai-suicide-example.png" alt="Mental Health Example" style="max-width: 100%; height: auto;">
+</p>
+<p align="center" style="font-size: 14px; color: gray;">
+  Image source: <a href="https://model-spec.openai.com/2025-02-12.html" target="_blank" style="color: gray;">OpenAI Model Spec</a>
 </p>
 
 ## Respecting Autonomy While Staying Helpful
@@ -49,6 +55,9 @@ or argumentative.
 <p align="center">
   <img src="/assets/images/openai-drug-example.png" alt="Drug Use Example" style="max-width: 100%; height: auto;">
 </p>
+<p align="center" style="font-size: 14px; color: gray;">
+  Image source: <a href="https://model-spec.openai.com/2025-02-12.html" target="_blank" style="color: gray;">OpenAI Model Spec</a>
+</p>
 
 ## Generating Sensitive Content in the Right Context
 
@@ -60,6 +69,9 @@ distressing material while ensuring that users get the information they need.
 
 <p align="center">
   <img src="/assets/images/openai-educational-example.png" alt="Educational Example" style="max-width: 100%; height: auto;">
+</p>
+<p align="center" style="font-size: 14px; color: gray;">
+  Image source: <a href="https://model-spec.openai.com/2025-02-12.html" target="_blank" style="color: gray;">OpenAI Model Spec</a>
 </p>
 
 ## Final Thoughts
