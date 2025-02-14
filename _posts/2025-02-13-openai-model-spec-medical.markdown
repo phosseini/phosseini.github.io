@@ -1,4 +1,9 @@
-# Model Spec for Medical AI Assistants  
+---
+layout: post
+title: "Model Spec for Medical AI Assistants"
+date: 2025-02-13
+permalink: /openai-model-spec-medical/
+---
 
 With [OpenAI’s release of Model Spec](https://model-spec.openai.com/2025-02-12.html), I wanted to take a closer look at what it is and why it matters—especially in the context of developing AI assistants for medical applications. Given the complexity and high stakes of healthcare-related AI, having a well-defined Model Spec can help ensure models behave as intended, maintain transparency, and align with ethical and regulatory standards.  
 
