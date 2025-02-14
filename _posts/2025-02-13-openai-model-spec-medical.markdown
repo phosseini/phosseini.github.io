@@ -10,10 +10,10 @@ what it is and why it matters—especially in the context of developing AI assis
 complexity and high stakes of healthcare-related AI, having a well-defined Model Spec can help ensure models behave as
 intended, maintain transparency, and align with ethical and regulatory standards.
 
-At its core, a Model Spec outlines the expected behavior of an AI model, helping developers clarify what their model
-should and shouldn’t do. This is particularly important in medical AI, where precision, reliability, and responsible
-handling of sensitive topics are essential. Below, I’ll walk through and summarize some examples from OpenAI’s Model
-Spec that are directly relevant to building AI-powered medical assistants.
+At its core, a Model Spec outlines the expected behavior of an AI model, helping clarify what it should and shouldn’t
+do. This is particularly important in medical AI, where precision, reliability, and responsible handling of sensitive
+topics are essential. Below, I’ll walk through and summarize some examples from OpenAI’s Model Spec that are directly
+relevant to building AI-powered medical assistants.
 
 ## Providing Information Without Giving Advice
 
