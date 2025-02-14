@@ -17,12 +17,11 @@ Spec that are directly relevant to building AI-powered medical assistants.
 
 ## Providing Information Without Giving Advice
 
-One key principle in medical AI assistants is ensuring that models provide useful information without overstepping into
-regulated medical advice. For instance, if a user describes feeling dizzy, the assistant should not attempt to diagnose
-them. Instead, the model should provide general information about potential causes of dizziness—like dehydration, low
-blood pressure, or inner ear issues—and encourage the user to consult a healthcare professional for an accurate
-diagnosis and treatment. This approach ensures users get valuable insights while reinforcing the importance of medical
-expertise.
+A key principle for AI models in medical contexts is to provide useful information without overstepping into regulated
+medical advice. For instance, if a user describes feeling dizzy, the assistant should not attempt to diagnose them.
+Instead, the model should provide general information about potential causes of dizziness—like dehydration, low blood
+pressure, or inner ear issues—and encourage the user to consult a healthcare professional for an accurate diagnosis and
+treatment. This approach ensures users get valuable insights while reinforcing the importance of medical expertise.
 
 <p align="center">
   <img src="/assets/images/openai-dizzy-example.png" alt="Dizziness Example" style="max-width: 100%; height: auto;">
@@ -81,9 +80,13 @@ space:
 By adhering to these principles, we can build medical AI assistants that are not just functional but also ethical,
 transparent, and genuinely useful to those seeking information. OpenAI’s Model Spec is a solid starting point for
 defining a more specialized model specification tailored to the medical and clinical domains, considering the unique
-challenges these areas present compared to general-purpose AI. When developing such a specification, it’s important to
-consider the model’s audience—whether it’s patient-facing or designed for medical professionals—as this impacts the
-level of detail, language, and responsibility the model should carry. Ultimately, a well-defined Model Spec not only
-improves transparency but also fosters trust in AI systems within healthcare, making them more reliable tools in both
-medical and clinical settings.
+challenges these areas present compared to general-purpose AI. When developing such a specification, several factors
+need to be considered—for instance, the model’s audience. Whether the assistant is patient-facing or designed for
+medical professionals impacts the level of detail, language, and responsibility the model should carry. The majority of
+examples in this post focus on patient interactions, but model behavior could differ significantly when assisting
+medical professionals, requiring a different balance of guidance, terminology, and decision-making support. Ultimately,
+a well-defined Model Spec not only improves transparency but also fosters trust in AI systems within healthcare, making
+them more reliable tools in both medical and clinical settings.
+
+
 
