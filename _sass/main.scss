@@ -9,7 +9,28 @@
 }
 
 footer p {
-    text-align: center !important;
-    margin-top: 20px !important;
+  text-align: center !important;
+  margin-top: 20px !important;
 }
 
+.post-list-heading {
+  font-size: 1.8rem; /* Adjust this size as needed */
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.post-title {
+  font-size: 1.4rem; /* Adjust to be proportional */
+  font-weight: 600;
+  margin-top: 0.5rem;
+}
+
+.post-excerpt {
+  font-size: 1rem; /* Keep the excerpt readable */
+  color: #555; /* Optional: Make it slightly muted */
+}
+
+.post-meta {
+  font-size: 0.9rem;
+  color: #888; /* Lighter color for post dates */
+}
