@@ -13,24 +13,38 @@ footer p {
   margin-top: 20px !important;
 }
 
-.post-list-heading {
-  font-size: 1.8rem; /* Adjust this size as needed */
-  font-weight: bold;
-  margin-bottom: 1rem;
+.post-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.post-item {
+  margin-bottom: 0.8rem; /* Reduce space between posts */
+  padding-bottom: 0.5rem; /* Optional: Add a bit of spacing inside */
+  border-bottom: 1px solid #ddd; /* Optional: Light separator between posts */
+}
+
+.post-item:last-child {
+  border-bottom: none; /* Remove border for the last post */
 }
 
 .post-title {
-  font-size: 1.4rem; /* Adjust to be proportional */
-  font-weight: 600;
-  margin-top: 0.5rem;
-}
-
-.post-excerpt {
-  font-size: 1rem; /* Keep the excerpt readable */
-  color: #555; /* Optional: Make it slightly muted */
+  font-size: 1.2rem;
+  font-weight: normal;
+  margin-top: 0.2rem;
+  margin-bottom: 0.2rem; /* Reduce extra spacing */
 }
 
 .post-meta {
   font-size: 0.9rem;
-  color: #888; /* Lighter color for post dates */
+  color: #888;
+  margin-bottom: 0.2rem; /* Reduce space below date */
 }
+
+.post-excerpt {
+  font-size: 1rem;
+  color: #555;
+  margin-top: 0.2rem;
+}
+
