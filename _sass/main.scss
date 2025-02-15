@@ -19,25 +19,3 @@ footer p {
   margin: 0;
 }
 
-.post-item {
-  margin-bottom: 0.8rem; /* Reduce space between posts */
-  padding-bottom: 0.5rem; /* Optional: Add a bit of spacing inside */
-  border-bottom: 1px solid #ddd; /* Optional: Light separator between posts */
-}
-
-.post-item:last-child {
-  border-bottom: none; /* Remove border for the last post */
-}
-
-.post-meta {
-  font-size: 0.9rem;
-  color: #888;
-  margin-bottom: 0.2rem; /* Reduce space below date */
-}
-
-.post-excerpt {
-  font-size: 1rem;
-  color: #555;
-  margin-top: 0.2rem;
-}
-
